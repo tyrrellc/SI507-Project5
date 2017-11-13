@@ -1,1 +1,3 @@
-Put your Project 5 brief explanation, as directed, here.
+I am accessing the Tumblr API to allow:
+-a user to input a blog name and get the number of posts within that blog
+-this data is then saved in the program cache and a csv file

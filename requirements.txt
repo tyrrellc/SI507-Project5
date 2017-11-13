@@ -1,0 +1,6 @@
+the following imports are required for the virt env for this project:
+
+from requests_oauthlib import OAuth1Session
+from datetime import datetime
+import json
+import csv
